@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-Bluetooth</string>
+    <string name="bluetooth_le_not_supported">Bluetooth LE not supported on this device</string>
+</resources>
